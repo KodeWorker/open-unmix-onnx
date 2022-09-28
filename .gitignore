@@ -1,0 +1,5 @@
+dev/
+model/
+output/
+source/
+*.pyc
