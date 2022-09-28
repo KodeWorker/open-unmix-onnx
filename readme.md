@@ -16,7 +16,7 @@ conda activate umx
 ```
 3. Export UMXL models
 ```
-python export_umx_to_onnx.py --output_dur ./model
+python export_umx_to_onnx.py --output_dir ./model
 ```
 There will export four onnx models in ./model.
 4. Prepare your mp3 file (e.g. ./source/Music.mp3)
